@@ -13,7 +13,7 @@ I am a highly motivated **Industrial Engineering undergraduate** at **San Pablo 
 - **Databases**: SQL (PostgreSQL, Linux/UNIX)  
 - **Simulation & Modeling**: FlexSim (Complex simulation, C++ integration)  
 - **Others**: LaTeX (Academic proficiency), MS Suite (Data analysis, pivot tables, advanced formulas)
-- 
+  
 ## Experience  
 ### Mathematics Assistant Professor *(San Pablo Catholic University – Aug 2024 - Dec 2024)*  
 - Developed and coordinated teaching activities, improving academic operations.  
